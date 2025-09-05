@@ -1,6 +1,11 @@
 # 💫 About Me:
-Im currently working as a freelancer, but actively looking for a contract position
-
+I'm Juan Pablo Jimenez, a Senior WordPress Frontend Developer.<br/>
+Im currently working as a freelancer, but actively looking for a contract position.<br/>
+<ul>
+<li>● Advanced WordPress Development: Expert-level skills in ACF and custom Gutenberg blocks.</li>
+<li>● Frontend Excellence: Proficiency in HTML5, CSS3, JavaScript and responsive design principles</li>
+<li>● Leadership Experience: Successfully managed development teams and mentored junior developers since December 2023</li>
+</ul>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juan-pablo-jimenez-75010219/) 
